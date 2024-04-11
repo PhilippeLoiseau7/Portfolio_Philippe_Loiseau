@@ -15,7 +15,7 @@ In this challenge you will be using React and Styled Components to create a prof
 Before you start building your portfolio, you should have a good understanding of React and styled components. For reference, you can always go back and look at your workshops and online materials and utilize all the knowledge that you gathered
 
 *Requirements*
-**NOTE: USE ALL THE CONCEPTS OF REACT THAT YOU HAVE LEARNT IN THE CLASS TO MAKE YOUR PORTFOLIO**
+**NOTE: TRY TO USE ALL THE CONCEPTS OF REACT THAT YOU HAVE LEARNT IN THE CLASS SO FAR TO MAKE YOUR PORTFOLIO POP!**
   **COMPULSORY: Your portfolio should include the following functionalities (MVP)**
 
 - **Hero Section:** first thing that people see when they enter your portfolio
