@@ -12,8 +12,10 @@ const App = () => {
               <Navbar/>  
               <HeroSection/>
             </Banner>
-            <AboutMeSection/>
-            <ProjectsSection/>
+        <AboutMeSection/>
+            <ProjectContainer>
+                <ProjectsSection/>
+            </ProjectContainer>
         </Container>
     )
 }
@@ -21,11 +23,15 @@ const App = () => {
 const Container = styled.div`
 `
 const Banner = styled.div`
-    background: #003554;
+    background-color: #003554;
     height: 100%;
     @media(max-width: 640px){
         padding-bottom: 2rem;
     }
+`
+
+const ProjectContainer = styled.div`
+    background-color: #003554;
 `
 export default App
 
