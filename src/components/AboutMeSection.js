@@ -9,7 +9,7 @@ import { FaKeyboard } from "react-icons/fa";
 
 const AboutMeSection = () => {
     return (
-        <AboutMeContainer>
+        <AboutMeContainer id="about">
            <h1><span>About Me</span></h1>
            <AboutMeText> 
             <p> 

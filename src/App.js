@@ -3,7 +3,7 @@ import styled from "styled-components"
 import HeroSection from "./components/HeroSection"
 import AboutMeSection from "./components/AboutMeSection"
 import ProjectsSection from "./components/ProjectsSection"
-
+import ContactSection from "./components/ContactSection"
 
 const App = () => {
     return (
@@ -16,6 +16,7 @@ const App = () => {
             <ProjectContainer>
                 <ProjectsSection/>
             </ProjectContainer>
+        <ContactSection/>    
         </Container>
     )
 }

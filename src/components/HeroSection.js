@@ -14,7 +14,7 @@ const HeroSection = () => {
                 <p> 
                     Whether it's creating seamless user experiences with HTML, CSS, and JavaScript on the frontend, or architecting robust APIs and databases with Node.js, Express, and MongoDB on the backend, I thrive on turning visions into reality.
                 </p>
-                <button>Contact Me</button>
+                <button>Get In Touch</button>
                 <SocialMediaLinks>
                     <div className="socialMediaLogos">
                     <span><a href="https://github.com/PhilippeLoiseau7"><FaGithub/></a></span>

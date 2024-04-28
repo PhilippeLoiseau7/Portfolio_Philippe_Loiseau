@@ -5,7 +5,7 @@ const slingair = require('./assets/slingair.png')
 const ProjectsSection = () => {
 
     return (
-        <ProjectContainer>
+        <ProjectContainer id="projects">
             <h1>Projects</h1>
             <p>Here are the projects that I've been working on:</p>
             <ProjectLayout>
